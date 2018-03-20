@@ -1,0 +1,5 @@
+D:\VisualStudio\Sielach.Cristian\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\VisualStudio\Sielach.Cristian\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\VisualStudio\Sielach.Cristian\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\VisualStudio\Sielach.Cristian\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\VisualStudio\Sielach.Cristian\Ejercicio02\obj\Debug\Ejercicio02.pdb
