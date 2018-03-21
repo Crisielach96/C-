@@ -1,0 +1,4 @@
+D:\VisualStudio\Sielach.Cristian\EntidadSello\bin\Debug\EntidadSello.dll
+D:\VisualStudio\Sielach.Cristian\EntidadSello\bin\Debug\EntidadSello.pdb
+D:\VisualStudio\Sielach.Cristian\EntidadSello\obj\Debug\EntidadSello.dll
+D:\VisualStudio\Sielach.Cristian\EntidadSello\obj\Debug\EntidadSello.pdb

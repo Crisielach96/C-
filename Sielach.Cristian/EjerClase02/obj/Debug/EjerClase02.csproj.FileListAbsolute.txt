@@ -1,0 +1,8 @@
+D:\VisualStudio\Sielach.Cristian\EjerClase02\bin\Debug\EjerClase02.exe.config
+D:\VisualStudio\Sielach.Cristian\EjerClase02\bin\Debug\EjerClase02.exe
+D:\VisualStudio\Sielach.Cristian\EjerClase02\bin\Debug\EjerClase02.pdb
+D:\VisualStudio\Sielach.Cristian\EjerClase02\obj\Debug\EjerClase02.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Sielach.Cristian\EjerClase02\obj\Debug\EjerClase02.exe
+D:\VisualStudio\Sielach.Cristian\EjerClase02\obj\Debug\EjerClase02.pdb
+D:\VisualStudio\Sielach.Cristian\EjerClase02\bin\Debug\EntidadSello.dll
+D:\VisualStudio\Sielach.Cristian\EjerClase02\bin\Debug\EntidadSello.pdb
