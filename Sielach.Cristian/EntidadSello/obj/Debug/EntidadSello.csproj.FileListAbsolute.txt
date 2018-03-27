@@ -2,3 +2,9 @@ D:\VisualStudio\Sielach.Cristian\EntidadSello\bin\Debug\EntidadSello.dll
 D:\VisualStudio\Sielach.Cristian\EntidadSello\bin\Debug\EntidadSello.pdb
 D:\VisualStudio\Sielach.Cristian\EntidadSello\obj\Debug\EntidadSello.dll
 D:\VisualStudio\Sielach.Cristian\EntidadSello\obj\Debug\EntidadSello.pdb
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\EntidadSello\bin\Debug\EntidadSello.dll
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\EntidadSello\bin\Debug\EntidadSello.pdb
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\EntidadSello\obj\Debug\EntidadSello.csproj.CoreCompileInputs.cache
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\EntidadSello\obj\Debug\EntidadSello.dll
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\EntidadSello\obj\Debug\EntidadSello.pdb
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\EntidadSello\obj\Debug\EntidadSello.csprojResolveAssemblyReference.cache

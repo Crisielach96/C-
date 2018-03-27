@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio01", "Ejercicio 1\Ejercicio01.csproj", "{1812979F-C188-4AB0-AE5F-D8D8198D4380}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio02", "Ejercicio02\Ejercicio02.csproj", "{B1E9FE1A-3441-4BCA-852B-01E3C14B3D89}"
@@ -10,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerClase02", "EjerClase02\EjerClase02.csproj", "{86387313-62C4-408F-A001-9066C69A491D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadSello", "EntidadSello\EntidadSello.csproj", "{799737AA-832C-492F-9698-A3C97CFA522D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio04", "Ejercicio04\Ejercicio04.csproj", "{4CACCDA6-FE9E-4392-AA74-88D007A4177F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,8 +41,15 @@ Global
 		{799737AA-832C-492F-9698-A3C97CFA522D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{799737AA-832C-492F-9698-A3C97CFA522D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{799737AA-832C-492F-9698-A3C97CFA522D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CACCDA6-FE9E-4392-AA74-88D007A4177F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CACCDA6-FE9E-4392-AA74-88D007A4177F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CACCDA6-FE9E-4392-AA74-88D007A4177F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CACCDA6-FE9E-4392-AA74-88D007A4177F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4F11DA-088E-4D70-AD53-5467221D96FD}
 	EndGlobalSection
 EndGlobal

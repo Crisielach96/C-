@@ -1,0 +1,7 @@
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio 1\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio 1\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio 1\obj\Debug\Ejercicio 1.pdb

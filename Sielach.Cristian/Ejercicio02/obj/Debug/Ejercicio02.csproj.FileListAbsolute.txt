@@ -3,3 +3,10 @@ D:\VisualStudio\Sielach.Cristian\Ejercicio02\bin\Debug\Ejercicio02.exe
 D:\VisualStudio\Sielach.Cristian\Ejercicio02\bin\Debug\Ejercicio02.pdb
 D:\VisualStudio\Sielach.Cristian\Ejercicio02\obj\Debug\Ejercicio02.exe
 D:\VisualStudio\Sielach.Cristian\Ejercicio02\obj\Debug\Ejercicio02.pdb
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\Users\Cristian\Desktop\Mis cosas\UTN FRA\Sielach.Cristian\Ejercicio02\obj\Debug\Ejercicio02.pdb
