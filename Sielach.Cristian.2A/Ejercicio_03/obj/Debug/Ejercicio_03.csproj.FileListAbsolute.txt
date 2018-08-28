@@ -1,0 +1,7 @@
+C:\Users\Cris\Desktop\Sielach.Cristian.2A\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+C:\Users\Cris\Desktop\Sielach.Cristian.2A\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+C:\Users\Cris\Desktop\Sielach.Cristian.2A\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+C:\Users\Cris\Desktop\Sielach.Cristian.2A\Ejercicio_03\obj\Debug\Ejercicio_03.csprojResolveAssemblyReference.cache
+C:\Users\Cris\Desktop\Sielach.Cristian.2A\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Desktop\Sielach.Cristian.2A\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+C:\Users\Cris\Desktop\Sielach.Cristian.2A\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
